@@ -16,17 +16,18 @@
   justify-content: center;
   align-items: center;
 }
+
 .navbar_container {
   background-color: #36cad1;
-  /* border-radius: 30px; */
   color: white;
   font-family: "poppins", sans-serif;
   font-weight: bolder;
 }
 
-.nav-link{
+.navbar_container .nav-link {
   color: white;
 }
-.nav-link:hover {
+
+.navbar_container .nav-link:hover {
   color: blue;
 }
